@@ -1,0 +1,22 @@
+{
+  "name": "radial-layout",
+  "version": "1.0.0",
+  "description": "Graph radial layout",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha --ui bdd ./tests"
+  },
+  "keywords": [
+    "radial",
+    "layout",
+    "pie",
+    "graph"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
