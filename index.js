@@ -1,4 +1,4 @@
-const createGraph = require('./lib/graph').create;
+// const createGraph = require('./lib/graph').create;
 
 module.exports = {
 	create,
@@ -8,6 +8,6 @@ module.exports = {
  * @param {import('./').CreateParams} params
  */
 function create({graphNodes, graphEdges}) {
-	const graph = createGraph(graphNodes, graphEdges);
+	// const graph = createGraph(graphNodes, graphEdges);
 
 }
